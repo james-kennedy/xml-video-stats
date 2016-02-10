@@ -1,0 +1,5 @@
+*.suo
+XMLAnnotationReader/bin/Debug/XMLAnnotationReader.vshost.exe
+*.force
+XMLAnnotationReader/obj/x86/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+XMLAnnotationReader/bin/Debug/XMLAnnotationReader.vshost.exe.manifest
